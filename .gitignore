@@ -1,0 +1,8 @@
+*
+!*.py
+!.gitignore
+
+# よくある追加ルール
+__pycache__/
+.vscode/
+*.log
